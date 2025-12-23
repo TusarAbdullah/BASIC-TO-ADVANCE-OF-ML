@@ -1,4 +1,4 @@
-Machine Learning Notes (বাংলা)
+# Machine Learning Notes (বাংলা)
 
 Part-wise Notes
 - [01 Introduction](notes/01-introduction.md)
