@@ -1,6 +1,6 @@
 # Machine Learning Notes (বাংলা)
 
-Part-wise Notes
+# Part-wise Notes
 - [01 Introduction](notes/01-introduction.md)
 - [02 What is ML](notes/02-what-is-ml.md)
 - [03 Samuel’s Definition](notes/03-samuel-definition.md)
