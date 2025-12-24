@@ -8,3 +8,4 @@
 - [05 Classification](notes/05-classification.md)
 - [06 Unsupervised Learning](notes/06-unsupervised-learning.md)
 - [07 Unsupervised Learning Types](notes/07-unsupervised-learning-types.md)
+- [08 Jupyter Notebook](notes/08-jupyter-notebook.md)
