@@ -1,6 +1,9 @@
 
 # Linear Regression (Part 2) — Supervised Learning কীভাবে কাজ করে? (Model Representation)
 
+![WhatsApp Image 2025-12-25 at 10 48 00 PM](https://github.com/user-attachments/assets/9c683d8c-f3ab-411c-bf9f-b890e18600b7)
+
+
 ## 1) Supervised Learning-এর প্রক্রিয়া (Process)
 Supervised learning-এ **training set** থাকে:
 
