@@ -10,3 +10,4 @@
 - [07 Unsupervised Learning Types](notes/07-unsupervised-learning-types.md)
 - [08 Jupyter Notebook](notes/08-jupyter-notebook.md)
 - [09 Linear Regression Intro](notes/09-linear-regression-intro.md)
+- [10 Linear Regression Part2](notes/10-linear-regression-part2.md)
